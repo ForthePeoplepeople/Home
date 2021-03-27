@@ -1,0 +1,34 @@
+      .header{
+        background-color: #000;
+        color: #FFF;
+        padding-block: 10px;
+        text-align: center;
+      }
+      img{
+        float: left;
+        border-radius: 50px;
+        overflow: hidden;
+        position: relative;
+      }
+      .nav {
+      background-color: #808080;
+      padding-block: 10px;
+      width: 100%;
+      text-align: center;
+      }
+      a:link{
+     
+        text-decoration: none;
+        padding-inline-end: 10px;
+        border-right: 3px #A9A9A9 solid;
+        inset-block: center;
+      }
+      .body {
+        border: 10px gray double;
+      }
+      .footer{
+        background-color: #000;
+        color: #FFF;
+        padding-block: 10px;
+        text-align: center;
+      }
